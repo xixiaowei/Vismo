@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "jiubongocat.moc3",
+		"Textures": [
+			"jiubongocat.8192/texture_00.png"
+		],
+		"Physics": "jiubongocat.physics3.json",
+		"DisplayInfo": "jiubongocat.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
