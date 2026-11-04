@@ -18,12 +18,12 @@
 1. **Live2D 原始工程文件（`.cmo3`）**：你可以在 Live2D 软件中对模型进行修改、添加动作或表情。
 2. **已打包好的桌宠文件**：适用于 Bongocat 桌宠软件的压缩包（支持鼠标+WASD、数位板+小键盘等多种版本）。
 
-👉 **[点击这里前往下载与查看使用教程](https://github.com/xixiaowei/Vismo/releases/tag/1.1.0)**
-
 > ⚠️ **警告**
 > 请勿向模型中添加任何含歧视、明确政治倾向的内容。
 
 📝 **版权声明**：仅限个人使用，遵循 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议授权。**严禁用于商业用途**。
+
+👉 **[点击这里前往下载与查看使用教程](https://github.com/xixiaowei/Vismo/releases/tag/1.1.0)**
 
 ---
 
@@ -40,6 +40,7 @@
 
 📝 **版权声明**：仅限个人使用，遵循 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议授权。**严禁用于商业用途**。
 
+👉 **[点击这里查看可下载作品](https://github.com/xixiaowei/Vismo/releases/tag/Live2D%E2%80%93layered%E2%80%93.psd)**
 <br>
 <br>
 
@@ -62,12 +63,12 @@ Here are some of my personal creations. The drawing/modeling software used for e
 1. **Live2D Source Project (`.cmo3`)**: You can modify the model, add motions, or create expressions in the Live2D software.
 2. **Ready-to-Use Desktop Pet Files**: Packaged ZIP files for the Bongocat software (supports Mouse+WASD, Tablet+Numpad, and other versions).
 
-👉 **[Click here to download and view the tutorial](https://github.com/xixiaowei/Vismo/releases/tag/1.1.0)**
-
 > ⚠️ **Warning**
 > Do not add any discriminatory or politically sensitive content to the model.
 
 📝 **License & Copyright**: For personal use only, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). **Commercial use is strictly prohibited**.
+
+👉 **[Click here to download and view the tutorial](https://github.com/xixiaowei/Vismo/releases/tag/1.1.0)**
 
 ---
 
