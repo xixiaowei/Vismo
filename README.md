@@ -15,8 +15,8 @@
 > **使用软件**：Live2D Cubism
 
 **提供内容：**
-1. **Live2D 原始工程文件（`.cmo3`）**：你可以在 Live2D 软件中对模型进行修改、添加动作或表情。
-2. **已打包好的桌宠文件**：适用于 Bongocat 桌宠软件的压缩包。
+1. **Live2D 原始工程文件（`.cmo3`）**：你可以在 Live2D 软件中对模型进行修改。
+2. **已打包好的桌宠文件**：可以直接用于 Bongocat 桌宠软件的压缩包。
 
 > ⚠️ **警告**
 > 请勿向模型中添加任何含歧视、明确政治倾向的内容。
@@ -60,8 +60,8 @@ Here are some of my personal creations. The drawing/modeling software used for e
 > **Software Used**: Live2D Cubism
 
 **Provided Content:**
-1. **Live2D Source Project (`.cmo3`)**: You can modify the model, add motions, or create expressions in the Live2D software.
-2. **Ready-to-Use Desktop Pet Files**: Packaged ZIP files for the Bongocat software (supports Mouse+WASD, Tablet+Numpad, and other versions).
+1. **Live2D Source Project (`.cmo3`)**: You can modify the model within the Live2D software.
+2. **Packaged Desktop Pet Files**: ZIP packages that can be directly used with the Bongocat desktop pet software.
 
 > ⚠️ **Warning**
 > Do not add any discriminatory or politically sensitive content to the model.
@@ -84,4 +84,6 @@ Here are some of my personal creations. The drawing/modeling software used for e
 * Can be used for animation, Live2D modeling, or learning layer separation and configuration.
 
 📝 **License & Copyright**: For personal use only, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). **Commercial use is strictly prohibited**.
+
+👉 **[Click here to view downloadable works](https://github.com/xixiaowei/Vismo/releases/tag/Live2D%E2%80%93layered%E2%80%93.psd)**
 ```
