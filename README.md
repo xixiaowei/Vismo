@@ -3,7 +3,7 @@
 ---
 
 <a id="chinese"></a>
-# Vismo 个人作品资源
+# Vismo 个人艺术作品资源
 
 这里存放了我的部分个人作品。各项作品所使用的绘图/建模软件，均会在下方详细说明。
 
@@ -47,7 +47,7 @@
 ---
 
 <a id="english"></a>
-# Vismo's Personal Works & Resources
+# Vismo's Personal Artworks Resources
 [Back to Chinese ↑](#chinese)
 
 Here are some of my personal creations. The drawing/modeling software used for each work is detailed below.
