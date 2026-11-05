@@ -11,7 +11,7 @@
 
 ## 🎨 一、Live2D 模型（原始文件 / Bongocat 桌宠文件）
 
-> **绘图 / 建模**：细小微Vismo
+> **绘图 / 建模**：细小微Vismo<br>
 > **使用软件**：Live2D Cubism
 
 **提供内容：**
@@ -41,8 +41,14 @@
 📝 **版权声明**：仅限个人使用，遵循 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议授权。**严禁用于商业用途**。
 
 👉 **[点击这里查看可下载作品](https://github.com/xixiaowei/Vismo/releases/tag/Live2D%E2%80%93layered%E2%80%93.psd)**
-<br>
-<br>
+
+---
+
+### 💬 问题反馈与交流
+如果你在下载或使用过程中遇到任何问题，或需要获取商用授权，欢迎通过以下方式联系我：
+* **QQ**：3423936342
+* **QQ 交流群**：344135564
+* **Email**：[xixiaoweivismo@gmail.com](mailto:xixiaoweivismo@gmail.com)
 
 ---
 
@@ -74,7 +80,7 @@ Here are some of my personal creations. The drawing/modeling software used for e
 
 ## ✂️ 2. Layered Files for Live2D (PSD)
 
-> **Drawing / Layering**: Vismo (细小微)
+> **Drawing / Layering**: Vismo (细小微)<br>
 > **Software Used**: Huashijie Pro (画世界 Pro)
 
 **Provided Content:**
@@ -86,4 +92,12 @@ Here are some of my personal creations. The drawing/modeling software used for e
 📝 **License & Copyright**: For personal use only, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). **Commercial use is strictly prohibited**.
 
 👉 **[Click here to view downloadable works](https://github.com/xixiaowei/Vismo/releases/tag/Live2D%E2%80%93layered%E2%80%93.psd)**
+
+---
+
+### 💬 Feedback & Support
+If you encounter any issues during download or use, feel free to contact me:
+* **QQ**: 3423936342
+* **QQ Group**: 344135564
+* **Email**: [xixiaoweivismo@gmail.com](mailto:xixiaoweivismo@gmail.com)
 ```
